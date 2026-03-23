@@ -118,8 +118,6 @@ An interactive dashboard was built using Power BI to visualize key insights:
 - Customer Analysis
 - Product & Payment Insights
 
-🔗 View Dashboard: [Download Dashboard](./Amazon_ecommerce.pbix)
-
 📌 Dashboard preview is available in the **dashboard** folder.
 
 ---
