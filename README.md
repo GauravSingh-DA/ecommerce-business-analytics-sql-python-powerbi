@@ -1,4 +1,4 @@
-# E-commerce Business Analytics
+# E-commerce Business Analytics (Project)
 
 ## 📌 Project Overview
 This project focuses on analyzing an e-commerce dataset to uncover key business insights related to sales performance, customer behavior, and product trends. The analysis was performed using SQL and Python, and results were visualized using Power BI dashboards.
