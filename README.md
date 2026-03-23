@@ -1,0 +1,154 @@
+# E-commerce Business Analytics
+
+## 📌 Project Overview
+This project focuses on analyzing an e-commerce dataset to uncover key business insights related to sales performance, customer behavior, and product trends. The analysis was performed using SQL and Python, and results were visualized using Power BI dashboards.
+
+---
+
+## 🎯 Objective
+To analyze e-commerce sales data and identify actionable insights that help improve revenue, customer retention, and product performance.
+
+---
+
+## 💼 Business Problem
+The business aims to:
+- Identify top-performing products and categories
+- Understand customer purchasing behavior
+- Analyze sales trends over time
+- Evaluate payment preferences
+- Improve decision-making using data-driven insights
+
+---
+
+## 🛠 Tools & Technologies
+- Python (Pandas, Matplotlib, Seaborn, Plotly)
+- SQL (PostgreSQL)
+- Power BI (Data Visualization)
+
+---
+
+### Sales Analysis
+
+- Top 10 Products by Revenue
+
+- Top 10 Products by Quantity Sold
+
+- Top 10 Categories by Revenue
+
+- Monthly Revenue Trend
+
+- Yearly Revenue Growth
+
+- Day of Week with Highest Orders
+
+
+### Customer Analysis
+
+- Top 10 Customers by Spending
+
+- Average Orders per Customer
+
+- Number of Repeat Customers
+
+- Customer Distribution by State
+
+- Customer Distribution by City
+  
+### Product Analysis
+
+- Top 10 Product Categories with the Highest Quantity Sold
+
+- Top 10 Most Expensive Product Categories
+
+- Top 10 Product Categories Contributing the Highest Percentage of Revenue
+
+- Products Never Ordered
+  
+### Payment Analysis
+
+- Most Used Payment Method
+
+- Revenue by Payment Type
+
+- Average Payment Value
+
+### Seller Analysis
+
+- Top 10 Sellers with Highest Revenue
+
+- Top 10 Sellers with Most Orders
+
+- Seller Distribution by State
+
+ ### Review Analysis
+ 
+ - Average Review Score
+
+- Customer Review Score Distribution
+
+- Top 10 Product Categories by Average Rating
+
+- Top 10 Sellers with Lowest Rating
+
+ ### Advanced Business Questions
+ 
+ - Top 5 Months with Highest Revenue
+
+- Top 10 Customers by Lifetime Value (CLV)
+
+- Percentage of Customers Who Made Repeat Purchases (Customer Loyalty)
+
+ 
+## 📈 Dashboard
+An interactive dashboard was built using Power BI to visualize key insights:
+
+- Sales Overview
+- Customer Analysis
+- Product & Payment Insights
+
+🔗 View Dashboard: [Download Dashboard](./Amazon_ecommerce.pbix)
+
+📌 Dashboard preview is available in the **dashboard** folder.
+
+---
+
+## 📁 Project Structure
+
+ecommerce-business-analytics
+│
+├── dataset/ → Sample dataset used for analysis
+├── notebooks/ → Python + SQL analysis (Jupyter Notebook)
+├── dashboard/ → Power BI dashboard screenshots
+├── reports/ → Detailed analysis reports (PDF)
+└── README.md
+
+
+---
+
+## ⚠️ Note
+Due to large dataset size, a sample dataset has been provided. Full analysis was performed on the complete dataset.
+
+---
+
+## 🚀 Key Insights
+1. The business shows strong and stable performance with consistent revenue trends over time.
+2. A high customer retention rate (96.59%) indicates excellent customer loyalty and satisfaction.
+3. A group of high-value customers (CLV) contributes significantly to overall revenue.
+4. Revenue is well distributed across categories, reducing dependency on a single category.
+5. However, the average basket size (1.93) is low, indicating limited multi-item purchases.
+6. Some sellers have low ratings (~2.2–2.3), highlighting areas for improvement in service and product quality.
+
+
+---
+
+## 🧠 Conclusion
+This project demonstrates how data analysis can be used to generate meaningful business insights and support data-driven decision-making in an e-commerce environment.
+
+---
+
+## 📬 Contact
+## 📬 Contact
+
+**Gaurav Singh**  
+📧 gauravsingh20305566@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/gaurav-singh-1083013b7
