@@ -39,7 +39,7 @@ The business aims to:
 
 ---
 
-### Sales Analysis
+## 📊 Sales Analysis
 
 - Top 10 Products by Revenue
 
@@ -54,7 +54,7 @@ The business aims to:
 - Day of Week with Highest Orders
 
 
-### Customer Analysis
+## 👥 Customer Analysis
 
 - Top 10 Customers by Spending
 
@@ -66,7 +66,7 @@ The business aims to:
 
 - Customer Distribution by City
   
-### Product Analysis
+## 📦 Product Analysis
 
 - Top 10 Product Categories with the Highest Quantity Sold
 
@@ -76,7 +76,7 @@ The business aims to:
 
 - Products Never Ordered
   
-### Payment Analysis
+## 💳 Payment Analysis
 
 - Most Used Payment Method
 
@@ -84,7 +84,7 @@ The business aims to:
 
 - Average Payment Value
 
-### Seller Analysis
+## 🏪 Seller Analysis
 
 - Top 10 Sellers with Highest Revenue
 
@@ -92,7 +92,7 @@ The business aims to:
 
 - Seller Distribution by State
 
-### Review Analysis
+## ⭐ Review Analysis
  
 - Average Review Score
 
@@ -102,7 +102,7 @@ The business aims to:
 
 - Top 10 Sellers with Lowest Rating
 
-### Advanced Business Questions
+## 🚀 Advanced Business Questions
  
 - Top 5 Months with Highest Revenue
 
