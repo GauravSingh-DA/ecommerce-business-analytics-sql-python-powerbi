@@ -27,6 +27,18 @@ The business aims to:
 
 ---
 
+## 📊 Business Metrics Overview
+
+- Total Orders
+- Total Revenue
+- Average Order Value
+- Total Customers
+- Total Sellers
+- Total Products
+- Total Quantity Sold
+
+---
+
 ### Sales Analysis
 
 - Top 10 Products by Revenue
@@ -80,9 +92,9 @@ The business aims to:
 
 - Seller Distribution by State
 
- ### Review Analysis
+### Review Analysis
  
- - Average Review Score
+- Average Review Score
 
 - Customer Review Score Distribution
 
@@ -90,9 +102,9 @@ The business aims to:
 
 - Top 10 Sellers with Lowest Rating
 
- ### Advanced Business Questions
+### Advanced Business Questions
  
- - Top 5 Months with Highest Revenue
+- Top 5 Months with Highest Revenue
 
 - Top 10 Customers by Lifetime Value (CLV)
 
@@ -116,12 +128,11 @@ An interactive dashboard was built using Power BI to visualize key insights:
 
 ecommerce-business-analytics
 │
-├── dataset/ → Sample dataset used for analysis
-├── notebooks/ → Python + SQL analysis (Jupyter Notebook)
-├── dashboard/ → Power BI dashboard screenshots
-├── reports/ → Detailed analysis reports (PDF)
-└── README.md
-
+├── dataset/ → Sample dataset used for analysis  
+├── notebooks/ → Python + SQL analysis (Jupyter Notebook)  
+├── dashboard/ → Power BI dashboard screenshots  
+├── reports/ → Detailed analysis reports (PDF)  
+└── README.md  
 
 ---
 
@@ -138,7 +149,6 @@ Due to large dataset size, a sample dataset has been provided. Full analysis was
 5. However, the average basket size (1.93) is low, indicating limited multi-item purchases.
 6. Some sellers have low ratings (~2.2–2.3), highlighting areas for improvement in service and product quality.
 
-
 ---
 
 ## 🧠 Conclusion
@@ -146,7 +156,6 @@ This project demonstrates how data analysis can be used to generate meaningful b
 
 ---
 
-## 📬 Contact
 ## 📬 Contact
 
 **Gaurav Singh**  
